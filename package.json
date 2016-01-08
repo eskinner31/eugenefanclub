@@ -1,0 +1,24 @@
+{
+  "name": "eugenefanclub",
+  "version": "1.0.0",
+  "description": "We are going to practice our Postgres skills by creating a database and table in Postgres then connecting to it to a node app using Knex.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eskinner31/eugenefanclub.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eskinner31/eugenefanclub/issues"
+  },
+  "homepage": "https://github.com/eskinner31/eugenefanclub#readme",
+  "dependencies": {
+    "bcrypt": "^0.8.5",
+    "knex": "^0.9.0",
+    "pg": "^4.4.3"
+  }
+}
